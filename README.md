@@ -12,7 +12,8 @@
      [If you want to add a specific folder use "myfolder/**"]
   >> git add .gitattributes
   >> git add yrfile.json
-     no need to use double quotation
+     [no need to use double quotation for the name of your file]
+     [If you want to add a specific folder put the name of that folder instead of yrfile.json]
   >> git commit -m "yr comment"
   >> git remote add origin https://github.com/mansourehk/Git-Large-File-Storage.git
      [Add your repository url address instead of the aformentioned url]
