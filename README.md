@@ -17,6 +17,6 @@ Run the following lines:
   >> git remote add origin https://github.com/mansourehk/Git-Large-File-Storage.git
   Add your repository url address instead of the aformentioned url
   >> git push origin master
-  Or force push "git push -f origin master" (Mostly this work)
+  Or force push "git push -f origin master" (Mostly this works)
 ```
 If your repository contains some other files, clone or git pull the data, and then git push all.
