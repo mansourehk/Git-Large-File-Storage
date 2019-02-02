@@ -3,7 +3,7 @@
 - Run cmd
 - change directory to "the path to the folder contain your data for upload"
 
-Run the following lines:
+- Run the following lines:
 ```
   >> git init
   >> git lfs install
