@@ -1,8 +1,10 @@
-Download LFS for windows from "https://git-lfs.github.com/"
-Run cmd
-cd "the path to the folder contain your data for upload"
+## How to use LFS to upload large files
+- Download LFS for windows [HERE](https://git-lfs.github.com/) 
+- Run cmd
+- change directory to "the path to the folder contain your data for upload"
 
 Run the following lines:
+```
   >> git init
   >> git lfs install
   >> git lfs track "*.json"
@@ -16,5 +18,5 @@ Run the following lines:
   Add your repository url address instead of the aformentioned url
   >> git push origin master
   Or force push "git push -f origin master" (Mostly this work)
-  
+```
 If your repository contains some other files, clone or git pull the data, and then git push all.
